@@ -1,0 +1,3 @@
+Mã môn học:100 -Tên môn:toan -Số đơn vị học trình:3 -Loại môn:Chuyên ngành
+Mã môn học:101 -Tên môn:anh -Số đơn vị học trình:2 -Loại môn:Cơ sở ngành
+Mã môn học:102 -Tên môn:van -Số đơn vị học trình:2 -Loại môn:Đại cương

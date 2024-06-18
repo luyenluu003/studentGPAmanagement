@@ -1,0 +1,4 @@
+Tên sinh viên:dat -Môn học:anh -Điểm:10
+Tên sinh viên:yui -Môn học:anh -Điểm:10
+Tên sinh viên:luyen -Môn học:toan -Điểm:9
+Tên sinh viên:luyen -Môn học:van -Điểm:9
